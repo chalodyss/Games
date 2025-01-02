@@ -16,6 +16,8 @@ Le dépôt sera mis à jour en fonction de mes disponibilités.
 * [Pendu](https://www.youtube.com/watch?v=cGch4u_QLBA)
 * [Pong](https://www.youtube.com/watch?v=o9_R75owo9Q&t=2s)
 * [Snake](https://www.youtube.com/watch?v=gBMI8IyIXIs)
+* [SpaceInvaders](https://www.youtube.com/watch?v=vAzDl7WQskY)
+* [Tetris](https://www.youtube.com/watch?v=18GJjPG8m0Y&t=1s)
 * [Tours de Hanoï](https://www.youtube.com/watch?v=oi7mPX8m9RI)
 
 N'hésitez pas à me contacter pour toute question ou remarque pertinente.
