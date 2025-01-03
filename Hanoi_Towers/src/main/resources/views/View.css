@@ -1,0 +1,24 @@
+/*
+ * Copyright © 2024 Charles Theetten
+ * Tous droits réservés.
+ */
+
+.button {
+    -fx-font-family: Consolas;
+    -fx-font-size: 20px;
+    -fx-background-radius: 15px;
+}
+
+#header {
+    -fx-background-color: #D6DBDF;
+}
+
+#board {
+    -fx-background-color: #212F3D;
+}
+
+#disks {
+    -fx-font-family: Consolas;
+    -fx-font-size: 20px;
+    -fx-background-radius: 15px;
+}
